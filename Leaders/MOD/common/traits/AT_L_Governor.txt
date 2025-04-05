@@ -10,6 +10,13 @@ trait_AT_AR_L_criminal = {
 		TIER = 1
 	}
 
+	leader_potential_add {
+		OR = {
+			owner = { is_gestalt = no }
+			is_ruler = no
+		}
+	}
+
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
@@ -127,6 +134,13 @@ trait_AT_AR_L_criminal_2 = {
 		TIER = 2
 	}
 
+	leader_potential_add {
+		OR = {
+			owner = { is_gestalt = no }
+			is_ruler = no
+		}
+	}
+	
 	triggered_planet_modifier = {
 		potential = {
 			exists = owner
