@@ -10,7 +10,7 @@ trait_AT_AR_L_criminal = {
 		TIER = 1
 	}
 
-	leader_potential_add {
+	leader_potential_add = {
 		OR = {
 			owner = { is_gestalt = no }
 			is_ruler = no
@@ -134,7 +134,9 @@ trait_AT_AR_L_criminal_2 = {
 		TIER = 2
 	}
 
-	leader_potential_add {
+	replace_traits = { "trait_AT_AR_L_criminal" }
+
+	leader_potential_add = {
 		OR = {
 			owner = { is_gestalt = no }
 			is_ruler = no
