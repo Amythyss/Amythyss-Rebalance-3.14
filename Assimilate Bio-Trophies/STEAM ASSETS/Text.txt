@@ -1,5 +1,5 @@
 ===TITLE===
-Amythyss' Rebalance - Assimilate Bio-Trophies
+Amythyss' Rebalance - Assimilate Bio-Trophies | 3.14
 
 ===DESCRIPTION===
 
@@ -16,7 +16,8 @@ Tired of having so many different species to pamper? Now you can assimilate any 
 [/list]
 
 [h1] Updates [/h1]
-This mod was originally meant for [b]personal use[/b], therefore updates are not guaranteed and the mod may change a lot between versions.
+Due to the massive changes Paradox made past 3.14, I decided to create a separate version (this one) that will remain for said version.
+This means that the only updates to this mod will be bug fixes.
 
 [h1] Balance [/h1]
 The mod is balanced [b]following my standards[/b].
