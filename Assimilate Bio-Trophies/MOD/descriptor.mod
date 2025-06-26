@@ -1,5 +1,5 @@
 name="Amythyss' Rebalance - Assimilate Bio-Trophies | 3.14"
-picture="thumbnail.jpg"
+picture="thumbnail.png"
 tags={
 	"Species"
 	"Gameplay"
