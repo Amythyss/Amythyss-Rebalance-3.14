@@ -35,5 +35,5 @@ I am sorry if it does not follow yours (or someone else's) but there will be no 
 
 [h1]Links[/h1]
 [table][tr]
-  [td][url=https://github.com/Amythyss/Amythyss-Rebalance][img]https://github.githubassets.com/favicons/favicon-dark.png[/img][/url][/td]
+  [td][url=https://github.com/Amythyss/Amythyss-Rebalance-3.14][img]https://github.githubassets.com/favicons/favicon-dark.png[/img][/url][/td]
 [/tr][/table]
