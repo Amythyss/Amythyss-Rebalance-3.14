@@ -32,6 +32,6 @@ Everyone is allowed to distribute my mods but has to state any changes[^1], ther
 Please make them aware of this and ask them to make the necessary changes.
 
 ## You haven't updated the mod in months / years!
-The answer to this question is very simple: [I know](https://github.com/Amythyss/Amythyss-Rebalance/tree/Dev?tab=readme-ov-file#releases-mod-updates).
+The answer to this question is very simple: [I know](https://github.com/Amythyss/Amythyss-Rebalance-3.14/?tab=readme-ov-file#releases-mod-updates).
 
 [^1]: https://github.com/Amythyss/Amythyss-Rebalance-3.14?tab=License-1-ov-file#readme
