@@ -1,4 +1,4 @@
-name="Amythyss' Rebalance - General Changes"
+name="Amythyss' Rebalance - General Changes | 3.14"
 picture="thumbnail.png"
 tags={
 	"Balance"
@@ -8,5 +8,5 @@ tags={
 	"Technologies"
 	"Gameplay"
 }
-supported_version="v3.13.1"
+supported_version="v3.14.*"
 remote_file_id="3031174623"
