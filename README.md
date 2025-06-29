@@ -7,9 +7,8 @@ This is a collection of mods originally meant for personal use only, this means 
 The mod is balanced following my standards, any request to balance things differently will be ignored.
 
 # Releases (mod updates)
-Given what I stated previously:[^1]
-- Updates are not guaranteed (I may update the mod on a daily basis or not at all for months).
-- Updates may change things completely.
+Due to the massive changes Paradox made past 3.14, I decided to create a separate version (this one) that will remain for said version.
+This means that the only updates to this mod will be bug fixes.
 
 # Contributions
 **You can contribute to my mods** and improve their code (I only like spaghetti in my plate) or fix bugs, however contributions are not guaranteed to be accepted.
@@ -29,18 +28,10 @@ I am really sorry for removing a feature you liked, you can create a mod to add 
 - Coding it in yourself.
 
 ## Someone cloned your mod and is taking credit for it.
-Everyone is allowed to distribute my mods but has to state any changes[^2], therefore has to credit me regardless of changes being made or not.
+Everyone is allowed to distribute my mods but has to state any changes[^1], therefore has to credit me regardless of changes being made or not.
 Please make them aware of this and ask them to make the necessary changes.
 
 ## You haven't updated the mod in months / years!
-This may be for an extensive number of reasons. Here's what you can do:
-- Write a comment on the mod's page.
-  - I may have forgotten about it.
-  - I may be working on it.
-  - I may have designated someone to continue on my work.
-- Fork my mod and create your own[^2].
-  - **Depending on the changes you made** you may be requested to delete your mod to avoid conflicts with the original one.
-- Wait and hope.
+I suggest to read [here](https://github.com/Amythyss/Amythyss-Rebalance/tree/Dev?tab=readme-ov-file#releases-mod-updates)
 
-[^1]: This is a collection of mods originally meant for personal use only.
-[^2]: https://github.com/Amythyss/Amythyss-Rebalance?tab=License-1-ov-file#readme
+[^1]: https://github.com/Amythyss/Amythyss-Rebalance?tab=License-1-ov-file#readme
