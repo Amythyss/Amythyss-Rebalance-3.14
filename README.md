@@ -19,12 +19,12 @@ This means that the only updates to this mod will be bug fixes.
 ## I spotted a bug!
 Good catch! Now there are two possible paths:
 - Create a branch, update my code and then make a pull request.
-- Create a [Bug Report](https://github.com/Amythyss/Amythyss-Rebalance/issues) and try to explain the issue to the best of your capabilities.
+- Create a [Bug Report](https://github.com/Amythyss/Amythyss-Rebalance-3.14/issues) and try to explain the issue to the best of your capabilities.
 Thank you.
 
 ## You removed a feature I liked!
 I am really sorry for removing a feature you liked, you can create a mod to add it back by:
-- Using my old code (You are required to follow the [License](https://github.com/Amythyss/Amythyss-Rebalance?tab=License-1-ov-file#readme)).
+- Using my old code (You are required to follow the License[^1].
 - Coding it in yourself.
 
 ## Someone cloned your mod and is taking credit for it.
@@ -32,6 +32,6 @@ Everyone is allowed to distribute my mods but has to state any changes[^1], ther
 Please make them aware of this and ask them to make the necessary changes.
 
 ## You haven't updated the mod in months / years!
-I suggest to read [here](https://github.com/Amythyss/Amythyss-Rebalance/tree/Dev?tab=readme-ov-file#releases-mod-updates)
+The answer to this question is very simple: [I know](https://github.com/Amythyss/Amythyss-Rebalance/tree/Dev?tab=readme-ov-file#releases-mod-updates).
 
-[^1]: https://github.com/Amythyss/Amythyss-Rebalance?tab=License-1-ov-file#readme
+[^1]: https://github.com/Amythyss/Amythyss-Rebalance-3.14?tab=License-1-ov-file#readme
